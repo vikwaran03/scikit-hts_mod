@@ -7,7 +7,7 @@ Design of this module by Nils Braun
 import itertools
 import math
 import warnings
-from collections import Iterable
+from collections.abc import Iterable
 from functools import partial
 from multiprocessing import Pool
 
